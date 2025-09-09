@@ -147,7 +147,7 @@ Feel free to fork this project and submit pull requests for any improvements.
 
 ---
 
-**Live Demo**: [Your deployed website URL here]
-**Repository**: [[here](https://github.com/CYPRIANCY/portfolio-project)]
+**Live Demo**: https://portfolio-project-wtvp.vercel.app/
+**Repository**: https://github.com/CYPRIANCY/portfolio-project
 
 Built with ❤️ by Akpen Sesugh Cyprian
