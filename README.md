@@ -1,4 +1,4 @@
-# Alex Johnson - Portfolio Website
+# Akpen Sesugh Cyprian - Portfolio Website
 
 A modern, responsive portfolio website built with HTML5, CSS3, and JavaScript. This project demonstrates best practices in web development, including semantic HTML, responsive design, interactive JavaScript features, and clean code organization.
 
@@ -148,6 +148,6 @@ Feel free to fork this project and submit pull requests for any improvements.
 ---
 
 **Live Demo**: [Your deployed website URL here]
-**Repository**: [Your GitHub repository URL here]
+**Repository**: [[here](https://github.com/CYPRIANCY/portfolio-project)]
 
-Built with ❤️ by Alex Johnson
+Built with ❤️ by Akpen Sesugh Cyprian
